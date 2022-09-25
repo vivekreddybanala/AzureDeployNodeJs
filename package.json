@@ -1,0 +1,22 @@
+{
+    "name": "node-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "ls"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vivekreddybanala/AzureDeployNodeJs.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/vivekreddybanala/AzureDeployNodeJs/issues"
+    },
+    "homepage": "https://github.com/vivekreddybanala/AzureDeployNodeJs#readme",
+    "dependencies": {
+        "express": "^4.18.1"
+    }
+}
